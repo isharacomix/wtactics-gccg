@@ -1,0 +1,29 @@
+#
+#  WT server
+#  ------------
+
+screen.width=1024;
+screen.height=768;
+port=28600;
+meta.port=28500;
+
+#
+# GAME SPECIFIC FUNCTIONS
+# =======================
+
+#
+# SetUpPlayer(p) - Create necessary structures for player 'p'.
+#
+def SetUpPlayer
+{
+  CreateDeck(ARG,"deck",40,50);
+  CreateDeck(ARG,"discard pile",40,160);
+}
+
+#
+# InitialScore(p) - Return a structure representing initial score for a player 'p'.
+#
+def InitialScore
+{
+  return("");
+}

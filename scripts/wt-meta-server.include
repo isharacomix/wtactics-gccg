@@ -1,0 +1,16 @@
+
+if(!port)
+  port=28500;
+factory.port=28501;
+
+if(!load("products"))
+{
+  products=(,);
+  save("products");
+}
+
+INITIAL_MONEY=30.0;
+GAME_BONUS=5.0;
+BET_BONUS_MULTIPLIER=1;
+LOSER_PERCENTAGE=0.20;
+AMOUNT_TO_PAY_WEEKLY=10.0;

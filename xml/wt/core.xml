@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ccg-setinfo SYSTEM "../gccg-set.dtd">
+<ccg-setinfo name="Core" dir="core" abbrev="CORE" game="WTactics">
+  <cards>
+
+  <card name="Algae Armor" graphics="algae_armor.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  
+  <card name="Doubt the Violence" graphics="doubt_the_violence.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Dryad's Flute" graphics="dryads_flute.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Elvish Archer" graphics="elvish_archer.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Elvish Captain" graphics="elvish_captain.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Elvish Druid" graphics="elvish_druid.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Elvish Fighter" graphics="elvish_fighter.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Elvish Marksman" graphics="elvish_marksman.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Elvish Ranger" graphics="elvish_ranger.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Elvish Scout" graphics="elvish_scout.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Elvish Shaman" graphics="elvish_shaman.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Fairy Pot" graphics="fairy_pot.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Green Shield" graphics="green_shield.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Living Trees" graphics="living_trees.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Merman Brawler" graphics="merman_brawler.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Merman Hoplite" graphics="merman_hoplite.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Nature's Presence" graphics="natures_presence.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Staff of Enchantment" graphics="staff_of_enchantment.jpg" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  <card name="Sudden Donations" graphics="sudden_donations.png" text="">
+   <attr key="rarity" value="A" />
+  </card>
+  
+  </cards>
+</ccg-setinfo>
