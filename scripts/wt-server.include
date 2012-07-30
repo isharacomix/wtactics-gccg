@@ -25,5 +25,5 @@ def SetUpPlayer
 #
 def InitialScore
 {
-  return("");
+    return (0,0);
 }
